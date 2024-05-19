@@ -2,3 +2,9 @@ h1 {
   text-align: center;
   color: blueviolet;
 }
+
+img {
+  width: 1000px;
+  display: block;
+  margin: 0 auto;
+}
